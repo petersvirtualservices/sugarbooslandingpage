@@ -1,7 +1,7 @@
 # Sugar Boo's Landing Page
 
 ## Description
-This is a landing page that is meant to display my technical skills in HTML and CSS.  It uses a display timer for the content.
+This is a landing page that is meant to display my technical skills in HTML and CSS.  It uses a fade-in keytimer for the content.
 
 ## Installation Instructions
 Click on index.html.
